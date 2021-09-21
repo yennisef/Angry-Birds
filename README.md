@@ -8,5 +8,5 @@
 
 - burung tidak langsung berpindah ke slingshot ketika burung sebelumnya ditembakkan
 
-#feature:
+feature:
 - modifikasi script yellow bird agar enemy juga ikut menghilang ketika yellow bird meng-hit enemy
